@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Cocktails React App
+
+Project carried out as part of my master's degree at ECV Nantes.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
