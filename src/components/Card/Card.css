@@ -1,0 +1,15 @@
+.card {
+    text-align: center;
+}
+
+.card img {
+    max-width: 100%;
+    clip-path: circle(50%);
+}
+
+.card h2 {
+    font-size: 22px;
+    font-family: 'DM Sans';
+    text-decoration: none;
+    color: black;
+}
