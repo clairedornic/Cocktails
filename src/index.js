@@ -1,24 +1,22 @@
 import React from 'react';
 import { createRoot } from "react-dom/client";
 import './index.css';
-import App from './App';
+import Home from './Home';
 
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
-  Link,
 } from "react-router-dom";
-import Exchange from './Exchange';
+import Cocktail from './Cocktail';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <App />,
+    element: <Home />,
   },
   {
-    path: "/exchange/:exchangeId",
-    element: <Exchange />,
+    path: "/cocktail/:cocktailId",
+    element: <Cocktail />,
   },
 ]);
 
