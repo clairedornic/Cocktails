@@ -2,7 +2,7 @@
 
 Project carried out as part of my master's degree at ECV Nantes.
 
-Link : https://vercel.com/clairedornic/claire-cocktails
+Link : [https://vercel.com/clairedornic/claire-cocktails](https://claire-cocktails.vercel.app/)
 
 Made with React and the cocktail DB API  ( https://react.dev/, https://www.thecocktaildb.com/ )
 
