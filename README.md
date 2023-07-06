@@ -2,6 +2,9 @@
 
 Project carried out as part of my master's degree at ECV Nantes.
 
+Link : https://vercel.com/clairedornic/claire-cocktails
+[https://vercel.com/clairedornic/claire-cocktails](https://vercel.com/clairedornic/claire-cocktails).
+
 Made with React and the cocktail DB API  ( https://react.dev/, https://www.thecocktaildb.com/ )
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
